@@ -6,7 +6,7 @@ Please read ToS before using. Thank you.
 Lets Gooooooooooooooooooooooooooooooooooooo
 -----------------------------------------------
 
-#ToS
+ToS:
 © 2022-23 AR-DEV-1
 All rights reserved.
 Eaglercarft is Minecraft that you can play online.
