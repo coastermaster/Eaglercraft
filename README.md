@@ -1,6 +1,8 @@
 # Eaglercraft-1.8.9
 Star this repo and Subscribe to me on Youtube
+-----------------------
 https://www.youtube.com/@AR-DEV-1
+-------------------------------------
 Please read ToS before using. Thank you.
 ------------------------------------------
 Lets Gooooooooooooooooooooooooooooooooooooo
@@ -8,12 +10,19 @@ Lets Gooooooooooooooooooooooooooooooooooooo
 
 ToS:
 © 2022-23 AR-DEV-1
+---------------
 All rights reserved.
+-------------
 Eaglercarft is Minecraft that you can play online.
+----------------------
 Eaglercraft was made by lax1dude and ayunami2000.
+------------------------
 It has 3 versions you can play and this is the fourth and a fifth coming soon
+--------------------------------------
 Version 1.3
+----------
 Version 1.5.2
+-----------------
 Version 1.8.8
 -------------
 This is Version 1.8.9 which I ported on Github 
