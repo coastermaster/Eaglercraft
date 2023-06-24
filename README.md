@@ -27,7 +27,7 @@ Version 1.8.8
 -------------
 This is Version 1.8.9 which I ported on Github 
 ---------------------
-Fith Version will be Version 1.12 with uhhhhhhhhhhhhhhhhhh a suprise 
+Fith Version will be Version 1.12 with uhhhhhhhhhhhhhhhhhh a surprise 
 --------------------------------
 For Whoever is assigned to stalk me please note that you cant do that and you cant DMCA this project and if you do that ............. something Bad will happen...............
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
