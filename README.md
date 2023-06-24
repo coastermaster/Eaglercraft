@@ -5,8 +5,16 @@ https://www.youtube.com/@AR-DEV-1
 -------------------------------------
 Please read ToS before using. Thank you.
 ------------------------------------------
-Lets Gooooooooooooooooooooooooooooooooooooo
+Credits:
 -----------------------------------------------
+AR-DEV-1 for posting the last Eaglercraft 1.8.9 clinet on Github and he is also making 1.12 uhhhhhhhhhhhh with a big surprise
+-
+lax1dude for makin Eaglercraft and starting the entire thingy
+----
+ayunami2000 for important contributions
+---
+and you for palying the game. Yay!
+-
 
 ToS:
 © 2022-23 AR-DEV-1
