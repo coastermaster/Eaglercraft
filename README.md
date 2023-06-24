@@ -13,7 +13,7 @@ lax1dude for makin Eaglercraft and starting the entire thingy
 ----
 ayunami2000 for important contributions
 ---
-and you for palying the game. Yay!
+and you for playing the game. Yay!
 -
 
 ToS:
