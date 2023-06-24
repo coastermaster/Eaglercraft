@@ -1,3 +1,4 @@
 # Eaglercraft-1.8.9
-# MC
+Please read ToS before using. Thank you.
+
 Lets Gooooooooooooooooooooooooooooooooooooo
