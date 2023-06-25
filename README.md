@@ -50,7 +50,7 @@ Version 1.5.2
 -----------------
 Version 1.8.8
 -------------
-This is Version 1.8.9 which We ported on Github 
+This is Version 1.8.9 which We made
 ---------------------
 We are also making a Fith Version that will will be Version 1.12 with a surprise 
 --------------------------------
