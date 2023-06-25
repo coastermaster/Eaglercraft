@@ -29,6 +29,8 @@ News:
 -
 I AR-DEV-1 will be also making Eaglercraft 1.12
 -
+Added lax1dude and ayunami2000 lol
+-
 ToS:
 © 2022-23 AR-DEV-1  
 ---------------
