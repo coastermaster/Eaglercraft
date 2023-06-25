@@ -1,9 +1,9 @@
 # Eaglercraft-1.8.9
-Star this repo and Subscribe to me on Youtube
+Star this repo and Subscribe to AR-DEV-1 on Youtube
 -----------------------
 https://www.youtube.com/@AR-DEV-1
 -------------------------------------
-Important Notice:We do not sell your data.
+Important Notice: We do not sell your data.
 -------------------------------------
 Please read ToS before using. Thank you.
 ------------------------------------------
@@ -27,7 +27,7 @@ Made a Website
 -
 News:
 -
-I AR-DEV-1 will be also making Eaglercraft 1.12
+We will be also making Eaglercraft 1.12
 -
 Added lax1dude and ayunami2000 lol
 -
@@ -48,9 +48,9 @@ Version 1.5.2
 -----------------
 Version 1.8.8
 -------------
-This is Version 1.8.9 which I ported on Github 
+This is Version 1.8.9 which We ported on Github 
 ---------------------
-Im also making a Fith Version that will will be Version 1.12 with a surprise 
+We are also making a Fith Version that will will be Version 1.12 with a surprise 
 --------------------------------
 For Whoever is assigned to stalk me please note that you cant do that and you cant DMCA this project and if you do that ............. something Bad will happen...............
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
