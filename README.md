@@ -1,4 +1,6 @@
-# Eaglercraft-1.8.9
+# Eaglercraft
+This version will be updated automatically
+-
 Star this repo and Subscribe to AR-DEV-1 on Youtube
 -----------------------
 https://www.youtube.com/@AR-DEV-1
