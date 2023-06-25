@@ -3,6 +3,8 @@ Star this repo and Subscribe to me on Youtube
 -----------------------
 https://www.youtube.com/@AR-DEV-1
 -------------------------------------
+Important Notice:We do not sell your data.
+-------------------------------------
 Please read ToS before using. Thank you.
 ------------------------------------------
 Credits:
@@ -17,7 +19,7 @@ and you for playing the game. Yay!
 -
 
 ToS:
-© 2022-23 AR-DEV-1
+© 2022-23 AR-DEV-1  
 ---------------
 All rights reserved.
 -------------
