@@ -17,7 +17,18 @@ ayunami2000 for important contributions
 ---
 and you for playing the game. Yay!
 -
-
+Updates:
+-
+Imported Eaglercraft 1.8.9 on Github
+-
+Fixed a bunch of Bugs
+-
+Made a Website
+-
+News:
+-
+I AR-DEV-1 will be also making Eaglercraft 1.12
+-
 ToS:
 © 2022-23 AR-DEV-1  
 ---------------
