@@ -40,7 +40,8 @@ const eaglercraftOpts = {
       "No Microsoft!",
       ":>",
       "|>",
-      "Singleplayer!"
+      "Singleplayer!",
+      "Absolutely no memes!"
     ],
     eaglerLogo: true
   },
