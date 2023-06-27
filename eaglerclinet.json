@@ -1,4 +1,4 @@
-const relayId = Math.floor(Math.random() * 3);
+ const relayId = Math.floor(Math.random() * 3);
 window.eaglercraftOpts = {
     "container": "game_frame",
     "assetsURI": "assets.epk",
