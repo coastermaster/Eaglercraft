@@ -33,6 +33,8 @@ We will be also making Eaglercraft 1.12
 -
 Added lax1dude and ayunami2000 lol
 -
+We have our own client
+-
 ToS:
 © 2022-23 AR-DEV-1  
 ---------------
