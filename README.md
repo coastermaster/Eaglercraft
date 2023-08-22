@@ -11,7 +11,7 @@ Please read ToS before using. Thank you.
 ------------------------------------------
 Credits:
 -----------------------------------------------
-AR-DEV-1 for posting the last Eaglercraft 1.8.9 clinet on Github and he is also making 1.12 uhhhhhhhhhhhh with a big surprise
+AR-DEV-1 for posting the last Eaglercraft 1.8.9 clinet on Github and he is also making 1.20 
 -
 lax1dude for makin Eaglercraft and starting the entire thingy
 ----
@@ -54,7 +54,7 @@ Version 1.8.8
 -------------
 This is Version 1.8.9 which We made
 ---------------------
-We are also making a Fith Version that will will be Version 1.12 with a surprise 
+We are also making a Fith Version that will will be Version 1.20 with a surprise 
 --------------------------------
 For Whoever is assigned to stalk me please note that you cant do that and you cant DMCA this project and if you do that ............. something Bad will happen...............
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
